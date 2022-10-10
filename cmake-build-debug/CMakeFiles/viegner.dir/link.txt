@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/viegner.dir/main.c.o CMakeFiles/viegner.dir/Trio.c.o -o viegner 
