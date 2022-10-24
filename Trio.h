@@ -7,6 +7,8 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdbool.h>
+#include <math.h>
 
 typedef struct trio{
     char letters[4];
